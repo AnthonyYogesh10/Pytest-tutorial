@@ -1,0 +1,26 @@
+
+* To execute full test or full Package
+ 1. To use pytest directory of both packages
+        pytest is a keyword and after use the directory name
+
+ 2. To use Pytest Absolute path of package
+        to use the method to in any of the directory to execute this Run
+        example: pytest /home/chris/Desktop/automation/Pytest-tutorial/02_to
+        run multiple_test_in_ pytest/Run_multiple_testcases
+
+ 3. To use pytest package1 package 2
+
+* To run Specific testcase
+ 1. To change the directory of specific testcase using the cd in terminal
+    just use the pytest to run
+
+ 2. Or just use the pytest then Directory name to run
+
+ 3. To use K to run specific test cases
+    for example: pytest k'test'
+    it run the test based on files which contains the word 'test
+
+
+
+
+
